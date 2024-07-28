@@ -10,8 +10,6 @@
 - 📄 Know about my experiences [https://github.com/ahmedbinkhalid/ahmedbinkhalid/blob/main/Ahmed%20Resume.pdf](https://github.com/ahmedbinkhalid/ahmedbinkhalid/blob/main/Ahmed%20Resume.pdf)
 
 - ⚡ Fun fact **I'm not funny**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmedbinkhalid321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedbinkhalid321" height="30" width="40" /></a>
 </p>
