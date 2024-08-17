@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Node.js**
 
-- 📫 How to reach me **ahmed321binkahlid@gmail.com**
+- 📫 How to reach me **ahmed321binkhalid@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/ahmedbinkhalid/ahmedbinkhalid/blob/main/Ahmed%20Resume.pdf](https://github.com/ahmedbinkhalid/ahmedbinkhalid/blob/main/Ahmed%20Resume.pdf)
 
